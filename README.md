@@ -1,7 +1,7 @@
-========================================================
+
   HYBRID WIND & SOLAR ENERGY SYSTEM — MATLAB PROJECT
   Renewable Energy Systems | Course Project (10 Marks)
-========================================================
+
 
 AUTHOR     : [Your Name / Roll No.]
 COURSE     : Renewable Energy Systems / Power Electronics
