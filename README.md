@@ -3,10 +3,7 @@
   Renewable Energy Systems | Course Project (10 Marks)
 
 
-AUTHOR     : [Your Name / Roll No.]
-COURSE     : Renewable Energy Systems / Power Electronics
-SITE       : Coastal Tamil Nadu, India
-SOFTWARE   : MATLAB R2021b or later (no toolboxes required)
+SOFTWARE USED  : MATLAB R2021b or later (no toolboxes required)
 
 --------------------------------------------------------
 PROJECT OVERVIEW
@@ -95,7 +92,7 @@ KEY RESULTS SUMMARY (Typical Output)
   CO₂ Avoided          : ~80–120 tonnes (lifetime)
 
 --------------------------------------------------------
-REFERENCES
+REFERENCES USED
 --------------------------------------------------------
   [1] Villalva et al., "Comprehensive approach to modeling
       and simulation of PV arrays," IEEE Trans. Power
